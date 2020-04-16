@@ -21,3 +21,5 @@ if (ranNum1 > ranNum2) {
    else {
     document.querySelector('h1').innerHTML='Draw';
 }
+
+
